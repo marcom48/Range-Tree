@@ -1,0 +1,2 @@
+# Range Tree
+This repository explores the nature of different methods of construction and query operations for the 2-dimensional Range Tree data structure. Several experiments are conducted with varying parameters to assess the performance of the construction and query operations for multiple implementations of the 2-dimensional Range Tree. The runtimes of each of these experiments with the different Range Tree variations are recorded and plotted for analysis in the attached report.
